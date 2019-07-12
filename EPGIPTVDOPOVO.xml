@@ -243,12 +243,27 @@
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="TVCINE 1">
-    <display-name lang="pt">PT VIP - TVCINE 1</display-name>
+    <display-name lang="pt">PT VIP - TVCine 1 FHD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=23&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+   <channel id="TVCINE 1">
+    <display-name lang="pt">PT VIP - TVCine 1 FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=23&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="BENFICA TV">
-    <display-name lang="pt">PT VIP - BENFICA TV</display-name>
+    <display-name lang="pt">PT VIP - BTV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=230&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="BENFICA TV">
+    <display-name lang="pt">PT VIP - BTV FHD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=230&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="BENFICA TV">
+    <display-name lang="pt">PT VIP - BTV HD (Low)</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=230&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -268,7 +283,12 @@
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="TVCINE 2">
-    <display-name lang="pt">PT VIP - TVCINE 2</display-name>
+    <display-name lang="pt">PT VIP - TVCine 2</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=24&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+   <channel id="TVCINE 2">
+    <display-name lang="pt">PT VIP - TVCine 2 FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=24&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -278,12 +298,22 @@
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="TVCINE 3">
-    <display-name lang="pt">PT VIP - TVCINE 3</display-name>
+    <display-name lang="pt">PT VIP - TVCine 3</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=25&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCINE 3">
+    <display-name lang="pt">PT VIP - TVCine 3 FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=25&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="TVCINE 4">
-    <display-name lang="pt">PT VIP - TVCINE 4</display-name>
+    <display-name lang="pt">PT VIP - TVCine 4</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=26&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCINE 4">
+    <display-name lang="pt">PT VIP - TVCINE 4 FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=26&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
