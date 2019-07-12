@@ -651,7 +651,7 @@
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="A BOLA TV">
-    <display-name lang="pt">PT VIP - A BOLA TV</display-name>
+    <display-name lang="pt">PT VIP - A Bola TV</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
   <channel id="CBS REALITY">
@@ -811,7 +811,7 @@
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="24 KITCHEN">
-    <display-name lang="pt">PT VIP - 24 KITCHEN</display-name>
+    <display-name lang="pt">PT VIP - 24 Kitchen FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=157&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -971,7 +971,7 @@
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="AFRO MUSIC">
-    <display-name lang="pt">PT VIP - AFRO MUSIC</display-name>
+    <display-name lang="pt">PT VIP - Afro Music Channel</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=345&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
