@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.8 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+     <channel id="AMC">
+    <display-name lang="pt">|MEO| AMC</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=480&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TLC.pt">
+    <display-name lang="pt">">|MEO| TLC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXNBlack.pt">
+    <display-name lang="pt">|MEO| AXN BLACK HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="axn.pt">
+    <display-name lang="pt">|MEO| AXN HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXNWhite.pt">
+    <display-name lang="pt">|MEO| AXN WHITE HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/axn-white.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="Cinemundo">
+    <display-name lang="pt">|NOWO| CINEMUNDO HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="fox.pt">
+    <display-name lang="pt">|MEO| FOX HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOXCOMEDY">
+    <display-name lang="pt">|MEO| FOX COMEDY</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/fox-comedy.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="foxcrime.pt">
+    <display-name lang="pt">|MEO| FOX CRIME HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOXM">
+    <display-name lang="pt">|MEO| FOX MOVIES</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="foxlife.pt">
+    <display-name lang="pt">|MEO| FOX LIFE HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+</tv>
