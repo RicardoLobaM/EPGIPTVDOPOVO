@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.8 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="ABolaTV.pt">
+    <channel id="ABolaTV.pt">
     <display-name lang="pt">PT VIP - A Bola TV</display-name>
-  </channel>
+    <url>http://www.meo.pt</url>
+  </channel
    <channel id="ABolaTV.pt">
     <display-name lang="pt">|MEO| A BOLA TV</display-name>
-    <url>http://www.mag.sapo.pt</url>
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="CBS REALITY">
     <display-name lang="pt">PT VIP - CBS REALITY</display-name>
@@ -173,8 +174,8 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=159&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="ARTV">
-    <display-name lang="pt">PT VIP - AR TV</display-name>
+  <channel id="ARTV.pt">
+    <display-name lang="pt">PT VIP - ARTV Parlamento</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=16&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -483,13 +484,23 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=43&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="AXN BLACK">
-    <display-name lang="pt">PT VIP - AXN BLACK</display-name>
+  <channel id="AXNBlack.pt">
+    <display-name lang="pt">PT VIP - AXN Black</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=45&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="AXN WHITE">
+    <channel id="AXNBlack.pt">
+    <display-name lang="pt">PT VIP - AXN Black FHD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=45&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AXNWhite.pt">
     <display-name lang="pt">PT VIP - AXN White</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=46&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="AXNWhite.pt">
+    <display-name lang="pt">PT VIP - AXN White FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=46&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -513,7 +524,12 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=48&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="AMC">
+  <channel id="AMC.pt">
+    <display-name lang="pt">PT VIP - AMC</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=480&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="AMC.pt">
     <display-name lang="pt">PT VIP - AMC</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=480&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
