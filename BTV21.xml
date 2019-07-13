@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.8 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-       <channel id="AMC">
+  <channel id="AMC">
     <display-name lang="pt">|MEO| AMC</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=480&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
@@ -26,6 +26,11 @@
     <display-name lang="pt">|NOWO| CINEMUNDO HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=355&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Cinemundo">
+    <display-name lang="pt">|NOWO| CINEMUNDO HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo.png" />
+    <url>http://www.meo.pt</url>
   </channel>
   <channel id="fox.pt">
     <display-name lang="pt">|MEO| FOX HD</display-name>
@@ -54,6 +59,37 @@
   </channel>
     <channel id="hollywood.pt">
     <display-name lang="pt">|MEO| HOLLYWOOD HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CINEMUNDO">
+    <display-name lang="pt">|MEO| CINEMUNDO</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=355&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Cinemundo">
+    <display-name lang="pt">|MEO| CINEMUNDO</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SyFy.pt">
+    <display-name lang="pt">|MEO| SYFY</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/syfy.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVCine1.pt">
+    <display-name lang="pt">|MEO| TVCINE 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCine2.pt">
+    <display-name lang="pt">|MEO| TVCINE 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCine3.pt">
+    <display-name lang="pt">|MEO| TVCINE 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCine4.pt">
+    <display-name lang="pt">|MEO| TVCINE 4</display-name>
     <url>http://www.nos.pt</url>
   </channel>
 </tv>
