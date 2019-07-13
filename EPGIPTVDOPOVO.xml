@@ -584,33 +584,53 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=52&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="ELEVEN SPORTS 1">
-    <display-name lang="pt">PT VIP - ELEVEN SPORTS 1</display-name>
+  <channel id="ElevenSports1.pt">
+    <display-name lang="pt">PT VIP - Eleven Sports 1 FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=521&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="ELEVEN SPORTS 2">
-    <display-name lang="pt">PT VIP - ELEVEN SPORTS 2</display-name>
+   <channel id="ElevenSports1.pt">
+    <display-name lang="pt">PT VIP - Eleven Sports 1 HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=521&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+   <channel id="ElevenSports1.pt">
+    <display-name lang="pt">PT VIP - Eleven Sports 1 HD (Low)</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=521&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="ElevenSports2.pt">
+    <display-name lang="pt">PT VIP - Eleven Sports 2 FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=522&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="ELEVEN SPORTS 3">
-    <display-name lang="pt">PT VIP - ELEVEN SPORTS 3</display-name>
+   <channel id="ElevenSports2.pt">
+    <display-name lang="pt">PT VIP - Eleven Sports 2 HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=522&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="ElevenSports2.pt">
+    <display-name lang="pt">PT VIP - Eleven Sports 2 HD (Low))</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=522&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="ElevenSports3.pt">
+    <display-name lang="pt">PT VIP - Eleven Sports 3 FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=523&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="ELEVEN SPORTS 4">
-    <display-name lang="pt">PT VIP - ELEVEN SPORTS 4</display-name>
+  <channel id="ElevenSports4.pt">
+    <display-name lang="pt">PT VIP - Eleven Sports 4 FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=524&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="ELEVEN SPORTS 5">
-    <display-name lang="pt">PT VIP - ELEVEN SPORTS 5</display-name>
+  <channel id="ElevenSports5.pt">
+    <display-name lang="pt">PT VIP - Eleven Sports 5 FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=525&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="ELEVEN SPORTS 6">
-    <display-name lang="pt">PT VIP - ELEVEN SPORTS 6</display-name>
+  <channel id="ElevenSports6.pt">
+    <display-name lang="pt">PT VIP - Eleven Sports 6 FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=526&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
