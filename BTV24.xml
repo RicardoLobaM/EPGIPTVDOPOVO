@@ -112,4 +112,14 @@
     <display-name lang="pt">|MEO| TVCINE 4</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  <channel id="GLOBO">
+    <display-name lang="pt">|MEO| GLOBO</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=410&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="GLOBO NOW">
+    <display-name lang="pt">|MEO| GLOBO NOW</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=15&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
 </tv>
