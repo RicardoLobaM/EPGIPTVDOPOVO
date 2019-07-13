@@ -1,6 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.8 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-   	<channel id="ABolaTV.pt">
+  <channel id="AXNWhite.pt">
+    <display-name lang="pt">PT VIP - AXN White</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=46&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+	  <channel id="BBC WORLD">
+    <display-name lang="pt">PT VIP - BBC World News</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=37&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+	<channel id="ABolaTV.pt">
     <display-name lang="pt">PT VIP - A Bola TV</display-name>
     <url>http://www.meo.pt</url>
   </channel>
