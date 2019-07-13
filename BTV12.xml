@@ -23,7 +23,7 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=16&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
 	</channel>
-    <channel id="AfroMusic.pt">
+    <channel id="AFRO MUSIC">
     <display-name lang="pt">PT VIP - Afro Music Channel</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=345&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
@@ -141,6 +141,16 @@
   <channel id="ELEVEN SPORTS 6">
     <display-name lang="pt">PT VIP - Eleven Sports 6 FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=526&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="CACA E PESCA">
+    <display-name lang="pt">PT VIP - Caça e Pesca</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=241&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="HISTORIA">
+    <display-name lang="pt">PT VIP - Canal História</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=20&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
 </tv>
