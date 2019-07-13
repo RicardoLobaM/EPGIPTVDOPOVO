@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.8 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="CacaVision.pt">
+    <channel id="CINEMUNDO">
+    <display-name lang="pt">PT VIP - CineMundo</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=355&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+	<channel id="CacaVision.pt">
     <display-name lang="pt">PT VIP - Caçavision</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=473&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
