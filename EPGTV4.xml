@@ -82,19 +82,19 @@
     <url>http://www.meo.pt</url>
   </channel>
   <channel id="tvc1.pt">
-    <display-name lang="pt">|NOS| TVCINE 1</display-name>
+    <display-name lang="pt">|NOS| TVCINE 1 HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="tvc2.pt">
-    <display-name lang="pt">|NOS| TVCINE 2</display-name>
+    <display-name lang="pt">|NOS| TVCINE 2 HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="tvc3.pt">
-    <display-name lang="pt">|NOS| TVCINE 3</display-name>
+    <display-name lang="pt">|NOS| TVCINE 3 HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="tvc4.pt">
-    <display-name lang="pt">|NOS| TVCINE 4</display-name>
+    <display-name lang="pt">|NOS| TVCINE 4 HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=26&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -185,7 +185,7 @@
     <url>http://www.vodafone.pt</url>
   </channel>
     <channel id="rtp1.pt">
-    <display-name lang="pt">|NOS| RTP 1</display-name>
+    <display-name lang="pt">|NOS| RTP 1 HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=1&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -641,7 +641,7 @@
 	 <url>http://www.meo.pt</url>
   </channel>
   <channel id="PortoCanal.pt">
-    <display-name lang="pt">|NOS| PORTO CANAL</display-name>
+    <display-name lang="pt">|NOS| PORTO CANAL HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=80&amp;mime=true&amp;no_default=false" />
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
@@ -725,9 +725,6 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
-
-
-
   <channel id="AMC.pt">
     <display-name lang="pt">|NOS| AMC HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=480&amp;mime=true&amp;no_default=false" />
