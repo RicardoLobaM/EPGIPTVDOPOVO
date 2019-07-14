@@ -146,22 +146,17 @@
     <icon src="https://www.meo.pt/PublishingImages/canais/sic-k.png" />
     <url>http://www.meo.pt</url>
   </channel>
-  <channel id="SIC K">
-    <display-name lang="pt">|MEO| SIC K</display-name>
-    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=386&amp;mime=true&amp;no_default=false" />
-    <url>http://www.vodafone.pt</url>
-  </channel>
     <channel id="siccaras.pt">
     <display-name lang="pt">|MEO| SIC CARAS</display-name>
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="SIC">
-    <display-name lang="pt">SIC</display-name>
+    <display-name lang="pt">|MEO| SIC</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=11&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
     <channel id="SIC">
-    <display-name lang="pt">sic.pt</display-name>
+    <display-name lang="pt">|MEO| SIC</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=11&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
