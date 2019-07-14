@@ -32,11 +32,21 @@
     <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo.png" />
     <url>http://www.meo.pt</url>
   </channel>
+  <channel id="Cinemundo.pt">
+    <display-name lang="pt">|NOWO| CINEMUNDO HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
   <channel id="fox.pt">
     <display-name lang="pt">|MEO| FOX HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="FOX COMEDY">
+    <display-name lang="pt">|MEO| FOX COMEDY</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=105&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="FOXComedy.pt">
     <display-name lang="pt">|MEO| FOX COMEDY</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=105&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
