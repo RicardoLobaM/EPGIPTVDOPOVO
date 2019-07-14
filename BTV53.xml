@@ -445,9 +445,47 @@
     <display-name lang="pt">|NOS| DISCOVERY HD SHOWCASE</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-
   <channel id="CrimeInvestigation.pt">
     <display-name lang="pt">|MEO| CRIME INVESTIGATION</display-name>
     <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="AfroMusic.pt">
+    <display-name lang="pt">|MEO| AFRO MUSIC</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=345&amp;mime=true&amp;no_default=false" />
+    <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+  </channel>
+ <channel id="mcmtop.pt">
+    <display-name lang="pt">|MEO| MCM POP</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=356&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="mtvportugal.pt">
+    <display-name lang="pt">|MEO| MTV PORTUGAL</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="mtvportugal.pt">
+    <display-name lang="pt">|NOS| MTV PORTUGAL HD</display-name>
+    <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="vh1.pt">
+    <display-name lang="pt">|MEO| VH1</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=50&amp;mime=true&amp;no_default=false" />
+    <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="TVGalicia.pt">
+    <display-name lang="pt">|MEO| TV GALICIA</display-name>
+	 <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
   </channel>
 </tv>
