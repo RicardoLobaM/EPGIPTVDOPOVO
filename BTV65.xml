@@ -812,4 +812,33 @@
     <display-name lang="pt">|NOS| FOX CRIME HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  <channel id="fox.pt">
+    <display-name lang="pt">|NOS| FOX HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOXM">
+    <display-name lang="pt">|NOS| FOX MOVIES HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="foxlife.pt">
+    <display-name lang="pt">|NOS| FOX LIFE HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="FTV">
+    <display-name lang="pt">|NOS| FTV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=30&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="FTV">
+    <display-name lang="pt">|NOS| FTV HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=30&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+		  
 </tv>
