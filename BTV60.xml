@@ -758,31 +758,18 @@
     <display-name lang="pt">|NOS| BTV 1 HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=230&amp;mime=true&amp;no_default=false" />
      <url>http://www.nos.pt</url>
-	 <url>http://www.vodafone.pt</url>
-	 <url>http://www.mag.sapo.pt</url>
-	 <url>http://www.meo.pt</url>
   </channel>
-  <channel id="cazaepesca.pt">
+  <channel id="CacaePesca">
     <display-name lang="pt">|NOS| CAÇA E PESCA HD</display-name>
-    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=241&amp;mime=true&amp;no_default=false" />
-     <url>http://www.nos.pt</url>
-	 <url>http://www.vodafone.pt</url>
-	 <url>http://www.mag.sapo.pt</url>
-	 <url>http://www.meo.pt</url>
-  </channel>
+    <url>http://www.nos.pt</url>
+  </channel>																		     																	     
   <channel id="CANAL 180">
     <display-name lang="pt">|NOS| CANAL 180</display-name>
-     <url>http://www.nos.pt</url>
-	 <url>http://www.vodafone.pt</url>
 	 <url>http://www.mag.sapo.pt</url>
-	 <url>http://www.meo.pt</url>
   </channel>
     <channel id="CMTV.pt">
     <display-name lang="pt">|NOS| CMTV HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=497&amp;mime=true&amp;no_default=false" />
-     <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
-	 <url>http://www.mag.sapo.pt</url>
-	 <url>http://www.meo.pt</url>
   </channel>
 </tv>
