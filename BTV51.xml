@@ -356,10 +356,10 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=236&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-    <channel id="DISNEY CHANNEL">
+ <channel id="disneychannel.pt">
     <display-name lang="pt">|MEO| DISNEY CHANNEL</display-name>
-    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=48&amp;mime=true&amp;no_default=false" />
-    <url>
+    <url>http://www.nos.pt</url>
+  </channel>
 	  <channel id="DisneyJunior.pt">
     <display-name lang="pt">|MEO| DISNEY JÚNIOR</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=193&amp;mime=true&amp;no_default=false" />
@@ -405,6 +405,21 @@
     <channel id="CMTV.pt">
     <display-name lang="pt">|MEO| CMTV</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=497&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AngelusTV.pt">
+    <display-name lang="pt">|MEO| ANGELUS TV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=488&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="24Kitchen.pt">
+    <display-name lang="pt">|MEO| 24 KITCHEN HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=157&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="discoverychannel.pt">
+    <display-name lang="pt">|MEO| DISCOVERY CHANNEL</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=387&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
 </tv>
