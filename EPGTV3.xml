@@ -1,4 +1,6 @@
-  <channel id="AMC">
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com"> 
+<channel id="AMC">
     <display-name lang="pt">|NOS| AMC</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=480&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
@@ -831,71 +833,4 @@
     <display-name lang="pt">|NOS| FOX CRIME HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-
-
-
-|NOS| FOX HD
-|NOS| FOX LIFE HD
-|NOS| FOX MOVIES HD
-|NOS| FTV
-|NOS| FTV HD
-|NOS| FUEL TV HD
-|NOS| GLOBO HD
-|NOS| GLOBO NOW HD
-|NOS| HOLLYWOOD HD
-|NOS| ICONCERTS HD
-|NOS| ID INVESTIGATION DISCOVERY
-|NOS| IUTV
-|NOS| KBS WORLD HD
-|NOS| LOCALVISÃO TV HD
-|NOS| MEZZO LIVE HD
-|NOS| MOTORVISION HD
-|NOS| MYZEN TV
-|NOS| NAT GEO WILD HD
-|NOS| NATIONAL GEOGRAPHIC HD
-|NOS| ODISSEIA HD
-|NOS| OUTDOOR HD
-|NOS| PORTO CANAL HD
-|NOS| RTP 1 HD
-|NOS| S HD
-|NOS| SIC CARAS HD
-|NOS| SIC HD
-|NOS| SIC MULHER HD
-|NOS| SIC NOTÍCIAS HD
-|NOS| SIC RADICAL HD
-
-|NOS| SUNDANCE HD
-|NOS| SYFY HD
-|NOS| TOROS TV HD
-|NOS| TRACE URBAN HD
-|NOS| TV RECORD HD
-|NOS| TVCINE 1 HD
-|NOS| TVCINE 2 HD
-|NOS| TVCINE 3 HD
-|NOS| TVCINE 4 HD
-|NOS| TVSÉRIES HD
-|NOWO| BOOMERANG
-|NOWO| DISCOVERY CHANNEL HD
-|NOWO| ELEVEN SPORTS 1 HD
-|NOWO| ELEVEN SPORTS 1 HD [720p]
-|NOWO| ELEVEN SPORTS 2 HD
-|NOWO| ELEVEN SPORTS 2 HD [540p]
-|NOWO| ELEVEN SPORTS 2 HD [720p]
-|NOWO| ELEVEN SPORTS 3 HD
-|NOWO| ELEVEN SPORTS 3 HD [540p]
-|NOWO| ELEVEN SPORTS 3 HD [720p]
-|NOWO| ELEVEN SPORTS 4 HD
-|NOWO| ELEVEN SPORTS 4 HD [540p]
-|NOWO| ELEVEN SPORTS 4 HD [720p]
-|NOWO| ELEVEN SPORTS 5 HD
-|NOWO| ELEVEN SPORTS 5 HD [540p]
-|NOWO| ELEVEN SPORTS 5 HD [720p]
-|NOWO| ELEVEN SPORTS 6 HD
-|NOWO| ELEVEN SPORTS 6 HD [540p]
-|NOWO| ELEVEN SPORTS 6 HD [720p]
-|NOWO| EUROSPORT 2 HD
-|NOWO| FIGHT SPORTS HD
-
-|NOWO| LUXE TV HD
-|NOWO| QYOU HD
-|NOWO| TRACE SPORTS STARS HD
+</tv>
