@@ -645,4 +645,73 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
+ <channel id="SKY NEWS">
+    <display-name lang="pt">|MEO| SKY NEWS</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=206&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TorosTV.pt">
+    <display-name lang="pt">|MEO| TOROS TV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=239&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="tvrecord.pt">
+    <display-name lang="pt">|MEO| TV RECORD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=238&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="pt">|MEO| TV5 MONDE</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVE24h.pt">
+    <display-name lang="pt">|MEO| TVE 24H</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="pt">|MEO| TVEI</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=40&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVI.pt">
+    <display-name lang="pt">|MEO| TVI</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=28&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVI24.pt">
+    <display-name lang="pt">|MEO| TVI 24</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=113&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVIFiccao.pt">
+    <display-name lang="pt">|MEO| TVI FICÇÃO</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
 </tv>
