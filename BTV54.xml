@@ -207,7 +207,10 @@
   </channel>
     <channel id="ABolaTV.pt">
     <display-name lang="pt">|MEO| A BOLA TV</display-name>
-    <url>http://www.meo.pt</url>
+     	<url>http://www.nos.pt</url>
+	<url>http://www.vodafone.pt</url>
+	<url>http://www.mag.sapo.pt</url>
+	<url>http://www.meo.pt</url>
   </channel>
   <channel id="PandaBiggs.pt">
     <display-name lang="pt">|MEO| BIGGS</display-name>
