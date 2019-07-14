@@ -150,12 +150,7 @@
     <display-name lang="pt">|MEO| SIC CARAS</display-name>
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="SIC">
-    <display-name lang="pt">|MEO| SIC</display-name>
-    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=11&amp;mime=true&amp;no_default=false" />
-    <url>http://www.vodafone.pt</url>
-  </channel>
-    <channel id="SIC">
+    <channel id="sic.pt">
     <display-name lang="pt">|MEO| SIC</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=11&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
