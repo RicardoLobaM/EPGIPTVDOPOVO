@@ -356,7 +356,7 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=236&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-    <channel id="disneychannel.pt">
+    <channel id="DISNEY CHANNEL">
     <display-name lang="pt">|MEO| DISNEY CHANNEL</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=48&amp;mime=true&amp;no_default=false" />
     <url>
@@ -397,7 +397,7 @@
     <display-name lang="pt">|MEO| REAL MADRID TV</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
-    <channel id="BenficaTV.pt>
+    <channel id="BenficaTV.pt">
     <display-name lang="pt">|MEO| BTV HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=230&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
