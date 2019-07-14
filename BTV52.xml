@@ -422,4 +422,32 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=387&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
+	  <channel id="HistoryChannel.pt">
+    <display-name lang="pt">|MEO| HISTÓRIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NatGeoWild.pt">
+    <display-name lang="pt">|MEO| NAT GEO WILD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=63&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="nationalgeographic.pt">
+    <display-name lang="pt">|MEO| NATIONAL GEOGRAPHIC HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=31&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+ <channel id="TravelChannel.pt">
+    <display-name lang="pt">|MEO| TRAVEL CHANNEL HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=56&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="DiscoveryHDShowcase.pt">
+    <display-name lang="pt">|NOS| DISCOVERY HD SHOWCASE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+
+  <channel id="CrimeInvestigation.pt">
+    <display-name lang="pt">|MEO| CRIME INVESTIGATION</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
 </tv>
