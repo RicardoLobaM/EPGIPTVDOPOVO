@@ -1,0 +1,901 @@
+  <channel id="AMC">
+    <display-name lang="pt">|NOS| AMC</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=480&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TLC.pt">
+    <display-name lang="pt">">|NOS| TLC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXNBlack.pt">
+    <display-name lang="pt">|NOS| AXN BLACK HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="axn.pt">
+    <display-name lang="pt">|NOS| AXN HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXNWhite.pt">
+    <display-name lang="pt">|NOS| AXN WHITE HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/axn-white.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="CINEMUNDO">
+    <display-name lang="pt">|NOWO| CINEMUNDO HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=355&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Cinemundo">
+    <display-name lang="pt">|NOWO| CINEMUNDO HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="fox.pt">
+    <display-name lang="pt">|NOS| FOX HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX COMEDY">
+    <display-name lang="pt">|NOS| FOX COMEDY</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=105&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="foxcrime.pt">
+    <display-name lang="pt">|NOS| FOX CRIME HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOXM">
+    <display-name lang="pt">|NOS| FOX MOVIES</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="foxlife.pt">
+    <display-name lang="pt">|NOS| FOX LIFE HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="hollywood.pt">
+    <display-name lang="pt">|NOS| HOLLYWOOD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="hollywood.pt">
+    <display-name lang="pt">|NOS| HOLLYWOOD HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CINEMUNDO">
+    <display-name lang="pt">|NOS| CINEMUNDO</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=355&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Cinemundo">
+    <display-name lang="pt">|NOS| CINEMUNDO</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="Cinemundo.pt">
+    <display-name lang="pt">|NOS| CINEMUNDO</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SyFy.pt">
+    <display-name lang="pt">|NOS| SYFY</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/syfy.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="tvc1.pt">
+    <display-name lang="pt">|NOS| TVCINE 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="tvc2.pt">
+    <display-name lang="pt">|NOS| TVCINE 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="tvc3.pt">
+    <display-name lang="pt">|NOS| TVCINE 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="tvc4.pt">
+    <display-name lang="pt">|NOS| TVCINE 4</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=26&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="GLOBO">
+    <display-name lang="pt">|NOS| GLOBO</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=410&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVGlobo.pt">
+    <display-name lang="pt">|NOS| GLOBO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="GLOBO NOW">
+    <display-name lang="pt">|NOS| GLOBO NOW</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=15&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+   <channel id="GloboNow.pt">
+    <display-name lang="pt">|NOS| GLOBO NOW</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=15&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Trace Urban">
+    <display-name lang="pt">|NOS| TRACE URBAN</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="TRACE URBAN">
+    <display-name lang="pt">|NOS| TRACE URBAN</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=68&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+   <channel id="TraceTV.pt">
+    <display-name lang="pt">|NOS| TRACE URBAN</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=68&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC K">
+    <display-name lang="pt">|NOS| SIC K</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="SICK.pt">
+    <display-name lang="pt">|NOS| SIC K</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic-k.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SIC K">
+    <display-name lang="pt">|NOS| SIC K</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=386&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="siccaras.pt">
+    <display-name lang="pt">|NOS| SIC CARAS</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">|NOS| SIC</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=11&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="SIC">
+    <display-name lang="pt">|NOS| SIC</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=11&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="sicmulher.pt">
+    <display-name lang="pt">|NOS| SIC MULHER</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=12&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+   <channel id="SIC MULHER">
+    <display-name lang="pt">|NOS| SIC MULHER</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=12&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="sicnoticias.pt">
+    <display-name lang="pt">|NOS| SIC NOTÍCIAS</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=13&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="sicradical.pt">
+    <display-name lang="pt">|NOS| SIC RADICAL</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=14&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="rtp2.pt">
+    <display-name lang="pt">|NOS| RTP 2</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=2&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="rtp1.pt">
+    <display-name lang="pt">|NOS| RTP 1</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=1&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="RTP3.pt">
+    <display-name lang="pt">|NOS| RTP 3</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=3&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTPMadeira.pt">
+    <display-name lang="pt">|NOS| RTP MADEIRA</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=342&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="RTPAcores.pt">
+    <display-name lang="pt">|NOS| RTP AÇORES</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=347&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="rtpmemoria.pt">
+    <display-name lang="pt">|NOS| RTP MEMÓRIA</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=4&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="RTPAfrica.pt">
+    <display-name lang="pt">|NOS| RTP ÁFRICA</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=5&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="ABolaTV.pt">
+    <display-name lang="pt">|NOS| A BOLA TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="PandaBiggs.pt">
+    <display-name lang="pt">|NOS| BIGGS</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=146&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+   <channel id="blaze.pt">
+    <display-name lang="pt">|NOS| BLAZE</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=21&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="BLOOMBERG">
+    <display-name lang="pt">|NOS| BLOOMBERG</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=59&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="CacaVision.pt">
+    <display-name lang="pt">|NOS| CAÇAVISION</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=473&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="CanalQ.pt">
+    <display-name lang="pt">|NOS| CANAL Q</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=372&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="CANCAONOVA.pt">
+    <display-name lang="pt">|NOS| CANÇÃO NOVA</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=202&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="KURIAKOSTV.pt">
+    <display-name lang="pt">|NOS| KURIAKOS TV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=405&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+
+  <channel id="SportTVplus.pt">
+    <display-name lang="pt">|NOS| SPORT TV HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=407&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="sporttv1.pt">
+    <display-name lang="pt">|NOS| SPORT TV 1 HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=6&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+      <channel id="sporttv1.pt">
+    <display-name lang="pt">|NOS| SPORT TV 1 HD [540P]</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=6&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+      <channel id="sporttv1.pt">
+    <display-name lang="pt">|NOS| SPORT TV 1 HD [720P]</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=6&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="sporttv2.pt">
+    <display-name lang="pt">|NOS| SPORT TV 2 HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=7&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+      <channel id="sporttv2.pt">
+    <display-name lang="pt">|NOS| SPORT TV 2 HD [540P]</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=7&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+      <channel id="sporttv2.pt">
+    <display-name lang="pt">|NOS| SPORT TV 2 HD [720P]</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=7&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="sporttv3.pt">
+    <display-name lang="pt">|NOS| SPORT TV 3 HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=8&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="sporttv3.pt">
+    <display-name lang="pt">|NOS| SPORT TV 3 HD [540P]</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=8&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="sporttv3.pt">
+    <display-name lang="pt">|NOS| SPORT TV 3 HD [720P]</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=8&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="sporttv4.pt">
+    <display-name lang="pt">|NOS| SPORT TV 4 HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=154&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+     <channel id="sporttv4.pt">
+    <display-name lang="pt">|NOS| SPORT TV 4 HD [540P]</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=154&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+     <channel id="sporttv4.pt">
+    <display-name lang="pt">|NOS| SPORT TV 4 HD [720P]</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=154&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="sporttv5.pt">
+    <display-name lang="pt">|NOS| SPORT TV 5 HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=111&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+      <channel id="sporttv5.pt">
+    <display-name lang="pt">|NOS| SPORT TV 5 HD [540P]</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=111&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+      <channel id="sporttv5.pt">
+    <display-name lang="pt">|NOS| SPORT TV 5 HD [720P]</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=111&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+	<channel id="NBA.pt">
+    <display-name lang="pt">|NOS| SPORT TV NBA</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=519&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="CBSReality.pt">
+    <display-name lang="pt">|NOS| CBS REALITY</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+    <channel id="TVSeries.pt">
+    <display-name lang="pt">|NOS| TV SÉRIES</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=159&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="EuroChannel.pt">
+    <display-name lang="pt">|NOS| EUROCHANNEL</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=511&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+	  <channel id="BabyTV.pt">
+    <display-name lang="pt">|NOS| BABY TV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=35&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="canalpanda.pt">
+    <display-name lang="pt">|NOS| CANAL PANDA</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=27&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="cartoon.pt">
+    <display-name lang="pt">|NOS| CARTOON NETWORK</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=236&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="disneychannel.pt">
+    <display-name lang="pt">|NOS| DISNEY CHANNEL</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=48&amp;mime=true&amp;no_default=false" />
+    <url>
+	  <channel id="DisneyJunior.pt">
+    <display-name lang="pt">|NOS| DISNEY JÚNIOR</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=193&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="JimJam.pt">
+    <display-name lang="pt">|NOS| JIM JAM</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+    <channel id="KombatSport.pt">
+    <display-name lang="pt">|NOS| KOMBAT SPORT</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+    <channel id="Eurosport2.pt">
+    <display-name lang="pt">|NOS| EUROSPORT 2</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=53&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eurosport1.pt">
+    <display-name lang="pt">|NOS| EUROSPORT 1</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=54&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eurosport1.pt">
+    <display-name lang="pt">|NOS| EUROSPORT 1 HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=54&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="SPORTINGTV.pt">
+    <display-name lang="pt">|NOS| SPORTING TV HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=487&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="RealMadridTV.pt">
+    <display-name lang="pt">|NOS| REAL MADRID TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+    <channel id="BenficaTV.pt>
+    <display-name lang="pt">|NOS| BTV HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=230&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="CMTV.pt">
+    <display-name lang="pt">|NOS| CMTV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=497&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AngelusTV.pt">
+    <display-name lang="pt">|NOS| ANGELUS TV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=488&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="24Kitchen.pt">
+    <display-name lang="pt">|NOS| 24 KITCHEN HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=157&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="discoverychannel.pt">
+    <display-name lang="pt">|NOS| DISCOVERY CHANNEL</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=387&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="HistoryChannel.pt">
+    <display-name lang="pt">|NOS| HISTÓRIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NatGeoWild.pt">
+    <display-name lang="pt">|NOS| NAT GEO WILD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=63&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="nationalgeographic.pt">
+    <display-name lang="pt">|NOS| NATIONAL GEOGRAPHIC HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=31&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+ <channel id="TravelChannel.pt">
+    <display-name lang="pt">|NOS| TRAVEL CHANNEL HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=56&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="DiscoveryHDShowcase.pt">
+    <display-name lang="pt">|NOS| DISCOVERY HD SHOWCASE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CrimeInvestigation.pt">
+    <display-name lang="pt">|NOS| CRIME INVESTIGATION</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+
+  <channel id="AfroMusic.pt">
+    <display-name lang="pt">|NOS| AFRO MUSIC</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=345&amp;mime=true&amp;no_default=false" />
+    <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+  </channel>
+ <channel id="mcmtop.pt">
+    <display-name lang="pt">|NOS| MCM POP</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=356&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="mtvportugal.pt">
+    <display-name lang="pt">|NOS| MTV PORTUGAL</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="mtvportugal.pt">
+    <display-name lang="pt">|NOS| MTV PORTUGAL HD</display-name>
+    <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="vh1.pt">
+    <display-name lang="pt">|NOS| VH1</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=50&amp;mime=true&amp;no_default=false" />
+    <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="TVGalicia.pt">
+    <display-name lang="pt">|NOS| TV GALICIA</display-name>
+	 <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ARTV.pt">
+    <display-name lang="pt">|NOS| ARTV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=16&amp;mime=true&amp;no_default=false" />
+    	 <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="BBC WORLD">
+    <display-name lang="pt">|NOS| BCC WORLD NEWS</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=37&amp;mime=true&amp;no_default=false" />
+    	 <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="CNN">
+    <display-name lang="pt">|NOS| CNBC Europe</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=95&amp;mime=true&amp;no_default=false" />
+    <url>http://www.nos.pt</url>
+	<url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="pt">|NOS| CNN</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=95&amp;mime=true&amp;no_default=false" />
+    <url>http://www.nos.pt</url>
+	<url>http://www.vodafone.pt</url>
+	<url>http://www.mag.sapo.pt</url>
+	<url>http://www.meo.pt</url>
+  </channel>
+    <channel id="Channel1Russia.pt">
+    <display-name lang="pt">|NOS| CHANNEL 1 RUSSIA</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="DeutscheWelle.pt">
+    <display-name lang="pt">|NOS| DEUTSCHE WELLE</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=94&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="eentertainment.pt">
+    <display-name lang="pt">|NOS| E! ENTERTAINMENT</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=52&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="Euronews.nws">
+    <display-name lang="pt">|NOS| EURONEWS</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="FOX NEWS">
+    <display-name lang="pt">|NOS| FOX NEWS</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="France 24 (I)">
+    <display-name lang="pt">|NOWO| FRANCE 24 HD ING</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="France 24 (F)">
+    <display-name lang="pt">|NOWO| FRANCE 24 HD FR</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="FTV">
+    <display-name lang="pt">|NOS| FTV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=30&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="mezzo.pt">
+    <display-name lang="pt">|NOS| MEZZO</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=409&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="MyCuisine.pt">
+    <display-name lang="pt">|NOS| MY CUISINE</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/my-cuisine.png" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="NBA.pt">
+    <display-name lang="pt">|NOS| NBA TV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=519&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="NHK">
+    <display-name lang="pt">|NOS| NHK WORLD JAPAN</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=360&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="odisseia.pt">
+    <display-name lang="pt">|NOS| ODISSEIA</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="pfc.pt">
+    <display-name lang="pt">|NOS| PFC</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=66&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="PortoCanal.pt">
+    <display-name lang="pt">|NOS| PORTO CANAL</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=80&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="france24.pt">
+    <display-name lang="pt">|NOS| FRANCE 24</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=81&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SKY NEWS">
+    <display-name lang="pt">|NOS| SKY NEWS</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=206&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TorosTV.pt">
+    <display-name lang="pt">|NOS| TOROS TV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=239&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="tvrecord.pt">
+    <display-name lang="pt">|NOS| TV RECORD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=238&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="pt">|NOS| TV5 MONDE</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVE24h.pt">
+    <display-name lang="pt">|NOS| TVE 24H</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="pt">|NOS| TVEI</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=40&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVI.pt">
+    <display-name lang="pt">|NOS| TVI</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=28&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVI24.pt">
+    <display-name lang="pt">|NOS| TVI 24</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=113&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVIFiccao.pt">
+    <display-name lang="pt">|NOS| TVI FICÇÃO</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+
+
+
+  <channel id="AMC.pt">
+    <display-name lang="pt">|NOS| AMC HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=480&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="axn.pt">
+    <display-name lang="pt">|NOS| AXN HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=47&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="BBCentertainment.pt">
+    <display-name lang="pt">|NOS| BBC ENTERTAINMENT</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=341&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+ <channel id="blaze.pt">
+    <display-name lang="pt">|NOS| BLAZE</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=21&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+ <channel id="blaze.pt">
+    <display-name lang="pt">|NOS| BLAZE HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=21&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="BenficaTV.pt>
+    <display-name lang="pt">|NOS| BTV 1 HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=230&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="cazae.pt">
+    <display-name lang="pt">|NOS| CAÇA E PESCA HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=241&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="CANAL 180">
+    <display-name lang="pt">|NOS| CANAL 180</display-name>
+	 <url>http://www.mag.sapo.pt</url>
+  </channel>
+    <channel id="CMTV.pt">
+    <display-name lang="pt">|NOS| CMTV HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=497&amp;mime=true&amp;no_default=false" />
+	 <url>http://www.vodafone.pt</url>
+  </channel>
+
+
+
+  <channel id="DogTV.pt">
+    <display-name lang="pt">|NOS| DOGTV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=348&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="eentertainment.pt">
+    <display-name lang="pt">|NOS| E! ENTERTAINMENT</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=52&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="eentertainment.pt">
+    <display-name lang="pt">|NOS| E! ENTERTAINMENT HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=52&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="FIGHT NETWORK">
+    <display-name lang="pt">|NOS| FIGHT NETWORK HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=374&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="FightNetwork">
+    <display-name lang="pt">|NOS| FINE LIVING NETWORK HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=374&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="FOX COMEDY">
+    <display-name lang="pt">|NOS| FOX COMEDY HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=105&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="foxcrime.pt">
+    <display-name lang="pt">|NOS| FOX CRIME HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+
+
+
+|NOS| FOX HD
+|NOS| FOX LIFE HD
+|NOS| FOX MOVIES HD
+|NOS| FTV
+|NOS| FTV HD
+|NOS| FUEL TV HD
+|NOS| GLOBO HD
+|NOS| GLOBO NOW HD
+|NOS| HOLLYWOOD HD
+|NOS| ICONCERTS HD
+|NOS| ID INVESTIGATION DISCOVERY
+|NOS| IUTV
+|NOS| KBS WORLD HD
+|NOS| LOCALVISÃO TV HD
+|NOS| MEZZO LIVE HD
+|NOS| MOTORVISION HD
+|NOS| MYZEN TV
+|NOS| NAT GEO WILD HD
+|NOS| NATIONAL GEOGRAPHIC HD
+|NOS| ODISSEIA HD
+|NOS| OUTDOOR HD
+|NOS| PORTO CANAL HD
+|NOS| RTP 1 HD
+|NOS| S HD
+|NOS| SIC CARAS HD
+|NOS| SIC HD
+|NOS| SIC MULHER HD
+|NOS| SIC NOTÍCIAS HD
+|NOS| SIC RADICAL HD
+
+|NOS| SUNDANCE HD
+|NOS| SYFY HD
+|NOS| TOROS TV HD
+|NOS| TRACE URBAN HD
+|NOS| TV RECORD HD
+|NOS| TVCINE 1 HD
+|NOS| TVCINE 2 HD
+|NOS| TVCINE 3 HD
+|NOS| TVCINE 4 HD
+|NOS| TVSÉRIES HD
+|NOWO| BOOMERANG
+|NOWO| DISCOVERY CHANNEL HD
+|NOWO| ELEVEN SPORTS 1 HD
+|NOWO| ELEVEN SPORTS 1 HD [720p]
+|NOWO| ELEVEN SPORTS 2 HD
+|NOWO| ELEVEN SPORTS 2 HD [540p]
+|NOWO| ELEVEN SPORTS 2 HD [720p]
+|NOWO| ELEVEN SPORTS 3 HD
+|NOWO| ELEVEN SPORTS 3 HD [540p]
+|NOWO| ELEVEN SPORTS 3 HD [720p]
+|NOWO| ELEVEN SPORTS 4 HD
+|NOWO| ELEVEN SPORTS 4 HD [540p]
+|NOWO| ELEVEN SPORTS 4 HD [720p]
+|NOWO| ELEVEN SPORTS 5 HD
+|NOWO| ELEVEN SPORTS 5 HD [540p]
+|NOWO| ELEVEN SPORTS 5 HD [720p]
+|NOWO| ELEVEN SPORTS 6 HD
+|NOWO| ELEVEN SPORTS 6 HD [540p]
+|NOWO| ELEVEN SPORTS 6 HD [720p]
+|NOWO| EUROSPORT 2 HD
+|NOWO| FIGHT SPORTS HD
+
+|NOWO| LUXE TV HD
+|NOWO| QYOU HD
+|NOWO| TRACE SPORTS STARS HD
