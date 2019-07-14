@@ -772,4 +772,44 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=497&amp;mime=true&amp;no_default=false" />
 	 <url>http://www.vodafone.pt</url>
   </channel>
+																		       <channel id="DogTV.pt">
+    <display-name lang="pt">|NOS| DOGTV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=348&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="eentertainment.pt">
+    <display-name lang="pt">|NOS| E! ENTERTAINMENT</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=52&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+    <channel id="eentertainment.pt">
+    <display-name lang="pt">|NOS| E! ENTERTAINMENT HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=52&amp;mime=true&amp;no_default=false" />
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="FIGHT NETWORK">
+    <display-name lang="pt">|NOS| FIGHT NETWORK HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=374&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="FightNetwork">
+    <display-name lang="pt">|NOS| FINE LIVING NETWORK HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=374&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="FOX COMEDY">
+    <display-name lang="pt">|NOS| FOX COMEDY HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=105&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="foxcrime.pt">
+    <display-name lang="pt">|NOS| FOX CRIME HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
 </tv>
