@@ -141,10 +141,10 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=68&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="SICK.pt">
-    <display-name lang="pt">|MEO| SIC K</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/sic-k.png" />
-    <url>http://www.meo.pt</url>
+  <channel id="SIC K">
+    <display-name lang="pt">SIC K</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=386&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
   </channel>
     <channel id="siccaras.pt">
     <display-name lang="pt">|MEO| SIC CARAS</display-name>
@@ -153,6 +153,16 @@
     <channel id="sic.pt">
     <display-name lang="pt">|MEO| SIC</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=11&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+      <channel id="sicmulher.pt">
+    <display-name lang="pt">|MEO| SIC MULHER</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=12&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+   <channel id="SIC MULHER">
+    <display-name lang="pt">|MEO| SIC MULHER</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=12&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
 </tv>
