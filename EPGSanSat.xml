@@ -1089,7 +1089,7 @@
     <url>http://www.mag.sapo.pt</url>
   </channel>
     <channel id="BenficaTV.pt">
-    <display-name lang="pt">PT: BTV HD</display-name>
+    <display-name lang="pt">PT: BTV</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=230&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -1440,16 +1440,14 @@
 	 <url>http://www.meo.pt</url>
   </channel>	  
  <channel id="BenficaTV.pt">
-    <display-name lang="pt">PT: BTV 1 HD</display-name>
-	<display-name lang="pt">PT: BTV HD</display-name>
+    <display-name lang="pt">PT: BTV FHD</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
  <channel id="BenficaTV.pt">
-	<display-name lang="pt">PT: BTV HD</display-name>
-    <display-name lang="pt">PT: BTV 1 HD</display-name>
+	<display-name lang="pt">PT: BTV HD (Low)</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
 	 <url>http://www.mag.sapo.pt</url>
