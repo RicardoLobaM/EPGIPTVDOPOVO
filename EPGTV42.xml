@@ -1420,7 +1420,9 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
-<channel id="AMC.pt">
+
+	
+	<channel id="AMC.pt">
     <display-name lang="pt">PT VIP - AMC</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=480&amp;mime=true&amp;no_default=false" />
      <url>http://www.nos.pt</url>
@@ -1499,8 +1501,6 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
-  
-  
       <channel id="DogTV.pt">
     <display-name lang="pt">PT VIP - Dog TV FHD</display-name>
      <url>http://www.nos.pt</url>
@@ -1660,5 +1660,88 @@
 	 <url>http://www.vodafone.pt</url>
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
-  </channel>	
+  </channel>
+  
+  
+   <channel id="24Kitchen.pt">
+    <display-name lang="pt">PT VIP - 24 Kitchen FHD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=157&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="ABolaTV.pt">
+    <display-name lang="pt">PT VIP - A Bola TV</display-name>
+     	<url>http://www.nos.pt</url>
+	<url>http://www.vodafone.pt</url>
+	<url>http://www.mag.sapo.pt</url>
+	<url>http://www.meo.pt</url>
+  </channel>
+  <channel id="AfroMusic.pt">
+    <display-name lang="pt">PT VIP - Afro Music Channel</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=345&amp;mime=true&amp;no_default=false" />
+    <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+  </channel>
+ 	  <channel id="ARTV.pt">
+    <display-name lang="pt">PT VIP - ARTV Parlamento</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=16&amp;mime=true&amp;no_default=false" />
+    	 <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+  <channel id="AXNBlack.pt">
+    <display-name lang="pt">PT VIP - AXN Black</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="AXNBlack.pt">
+    <display-name lang="pt">PT VIP - AXN Black FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="AXNWhite.pt">
+    <display-name lang="pt">PT VIP - AXN White</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/axn-white.png" />
+    <url>http://www.meo.pt</url>
+  </channel> 
+   <channel id="AXNWhite.pt">
+    <display-name lang="pt">PT VIP - AXN White FHD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/axn-white.png" />
+    <url>http://www.meo.pt</url>
+  </channel> 
+ 	  <channel id="BabyTV.pt">
+    <display-name lang="pt">PT VIP - Baby TV</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=35&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel> 
+  <channel id="BBCWORLD">
+    <display-name lang="pt">PT VIP - BBC World News</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=37&amp;mime=true&amp;no_default=false" />
+    	 <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>  
+    <channel id="BLOOMBERG">
+    <display-name lang="pt">PT VIP - Bloomberg</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=59&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+    <channel id="BLOOMBERG">
+    <display-name lang="pt">PT VIP - BOOMERANG</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=59&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>  
+    <channel id="CacaVision.pt">
+    <display-name lang="pt">PT VIP - Caçavision</display-name>
+    <url>http://www.meo.pt</url>
+  </channel> 
+	  <channel id="HistoryChannel.pt">
+    <display-name lang="pt">PT VIP - Canal História</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="canalpanda.pt">
+    <display-name lang="pt">PT VIP - Canal Panda</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=27&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
 </tv>
