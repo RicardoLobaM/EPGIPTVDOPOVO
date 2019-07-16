@@ -36,7 +36,16 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
+  <channel id="BenficaTV.pt">
+    <display-name lang="pt">|NOS| BTV 1 HD</display-name>
+	<display-name lang="pt">|MEO| BTV HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
  <channel id="BenficaTV.pt">
+	<display-name lang="pt">|MEO| BTV HD</display-name>
     <display-name lang="pt">|NOS| BTV 1 HD</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
