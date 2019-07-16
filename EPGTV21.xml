@@ -8,4 +8,12 @@
 	<url>http://www.mag.sapo.pt</url>
 	<url>http://www.meo.pt</url>
   </channel>
+ <channel id="tvc1.pt">
+	<display-name lang="pt">|MEO| TVCINE 1</display-name>
+	<display-name lang="pt">|NOS| TVCINE 1 HD</display-name>
+	<url>http://www.nos.pt</url>
+	<url>http://www.vodafone.pt</url>
+	<url>http://www.mag.sapo.pt</url>
+	<url>http://www.meo.pt</url>
+  </channel>
 </tv>
