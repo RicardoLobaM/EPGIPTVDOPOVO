@@ -7,4 +7,11 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
+  <channel id="ElevenSports4.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 4 HD [720p]</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
 </tv>
