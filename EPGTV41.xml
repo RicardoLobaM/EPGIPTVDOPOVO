@@ -227,7 +227,7 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=59&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-    <channel id="CacaVision">
+    <channel id="CacaVision.pt">
     <display-name lang="pt">|MEO| CAÇAVISION</display-name>
     <url>http://www.meo.pt</url>
   </channel>
