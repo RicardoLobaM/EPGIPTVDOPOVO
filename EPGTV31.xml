@@ -60,7 +60,7 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
-  <channel id="FOX COMEDY">
+  <channel id="FOXComedy.pt">
     <display-name lang="pt">|MEO| FOX COMEDY</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=105&amp;mime=true&amp;no_default=false" />
      <url>http://www.nos.pt</url>
@@ -103,22 +103,15 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
-  <channel id="CINEMUNDO">
-    <display-name lang="pt">|MEO| CINEMUNDO</display-name>
-     <url>http://www.nos.pt</url>
-	 <url>http://www.vodafone.pt</url>
-	 <url>http://www.mag.sapo.pt</url>
-	 <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="Cinemundo">
-    <display-name lang="pt">|MEO| CINEMUNDO</display-name>
-     <url>http://www.nos.pt</url>
-	 <url>http://www.vodafone.pt</url>
-	 <url>http://www.mag.sapo.pt</url>
-	 <url>http://www.meo.pt</url>
-  </channel>
   <channel id="Cinemundo.pt">
     <display-name lang="pt">|MEO| CINEMUNDO</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+<channel id="Cinemundo.pt">
+    <display-name lang="pt">|NOWO| CINEMUNDO HD</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
 	 <url>http://www.mag.sapo.pt</url>
@@ -159,7 +152,8 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
-  <channel id="TVGlobo.pt">
+   <channel id="TVGlobo.pt">
+    <display-name lang="pt">|MEO| GLOBO</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
 	 <url>http://www.mag.sapo.pt</url>
@@ -179,7 +173,7 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
-  <channel id="SICK.pt">
+  <channel id="SicK.pt">
     <display-name lang="pt">|MEO| SIC K</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
@@ -426,7 +420,7 @@
 	 <url>http://www.meo.pt</url>
   </channel>
     <channel id="BenficaTV.pt>
-    <display-name lang="pt">|MEO| BTV HD</display-name>
+	    <display-name lang="pt">|MEO| BTV HD</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
 	 <url>http://www.mag.sapo.pt</url>
@@ -460,7 +454,15 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
+  <channel id="DiscoveryHDShowcase.pt">
+    <display-name lang="pt">|NOS| DISCOVERY HD SHOWCASE</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
   <channel id="HistoryChannel.pt">
+    <display-name lang="pt">|MEO| HISTÓRIA</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
 	 <url>http://www.mag.sapo.pt</url>
@@ -515,6 +517,13 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
+  <channel id="mtvportugal.pt">
+    <display-name lang="pt">|NOS| MTV PORTUGAL HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
   <channel id="vh1.pt">
     <display-name lang="pt">|MEO| VH1</display-name>
      <url>http://www.nos.pt</url>
@@ -532,7 +541,7 @@
   <channel id="ARTV.pt">
     <display-name lang="pt">|MEO| ARTV</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=16&amp;mime=true&amp;no_default=false" />
-    	 <url>http://www.nos.pt</url>
+	 <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
@@ -733,6 +742,13 @@
   </channel>
   <channel id="TVIFiccao.pt">
     <display-name lang="pt">|MEO| TVI FICÇÃO</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SPORTINGTV.pt">
+    <display-name lang="pt">|NOS| SPORTING TV HD</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
 	 <url>http://www.mag.sapo.pt</url>
