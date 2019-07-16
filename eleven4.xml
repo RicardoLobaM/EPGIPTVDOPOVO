@@ -79,7 +79,9 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
-
+  
+  
+      <channel id="DogTV.pt">
     <display-name lang="pt">PT VIP - Dog TV FHD</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
