@@ -34,6 +34,12 @@
   </channel>	
 	  <channel id="tvc3.pt">
     <display-name lang="pt">|NOS| TVCINE 3 HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+	  <channel id="tvc3.pt">
 <display-name lang="pt">|MEO| TVCINE 3</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
