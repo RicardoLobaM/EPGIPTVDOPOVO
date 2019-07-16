@@ -50,7 +50,7 @@
 	 <url>http://www.mag.sapo.pt</url>
 	 <url>http://www.meo.pt</url>
   </channel>
-  <channel id="CANAL 180">
+  <channel id="C180">
     <display-name lang="pt">|NOS| CANAL 180</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
@@ -500,6 +500,181 @@
   </channel>
   <channel id="TVSeries.pt">
     <display-name lang="pt">|NOS| TVSÉRIES HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+<channel id="BLOOM">
+    <display-name lang="pt">|NOWO| BOOMERANG</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="discoverychannel.pt">
+    <display-name lang="pt">|NOWO| DISCOVERY CHANNEL HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ElevenSports1.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 1 HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+  <channel id="ElevenSports1.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 1 HD [720p]</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+  <channel id="ElevenSports2.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 2 HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+  <channel id="ElevenSports2.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 2 HD [540p]</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+  <channel id="ElevenSports2.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 2 HD [720p]</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+  <channel id="ElevenSports3.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 3 HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+  <channel id="ElevenSports3.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 3 HD [540p]</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel> 
+  <channel id="ElevenSports3.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 3 HD [720p]</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ElevenSports4.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 4 HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ElevenSports4.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 4 HD [540p]</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ElevenSports4.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 4 HD [720p]</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ElevenSports5.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 5 HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ElevenSports5.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 5 HD [540p]</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ElevenSports5.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 5 HD [720p]</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ElevenSports6.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 6 HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ElevenSports6.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 6 HD [540p]</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ElevenSports6.pt">
+    <display-name lang="pt">|NOWO| ELEVEN SPORTS 6 HD [720p]</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="Eurosport2.pt">
+    <display-name lang="pt">|NOWO| EUROSPORT 2 HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="FIGHTHD">
+    <display-name lang="pt">|NOWO| FIGHT SPORTS HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="FRANCE24FR">
+    <display-name lang="pt">|NOWO| FRANCE 24 HD FR</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="FRANCE24ING">
+    <display-name lang="pt">|NOWO| FRANCE 24 HD ING</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="">
+    <display-name lang="pt">|NOWO| QYOU HD</display-name>
+     <url>http://www.nos.pt</url>
+	 <url>http://www.vodafone.pt</url>
+	 <url>http://www.mag.sapo.pt</url>
+	 <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="">
+    <display-name lang="pt">|NOWO| LUXE TV HD</display-name>
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
 	 <url>http://www.mag.sapo.pt</url>
