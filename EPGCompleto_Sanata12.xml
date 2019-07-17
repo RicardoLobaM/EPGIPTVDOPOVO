@@ -2,11 +2,6 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com"> 	
    <channel id="BenficaTV.pt">
     <display-name lang="pt">PT: BTV HD (Low)</display-name>
-    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=230&amp;mime=true&amp;no_default=false" />
-    <url>mag.sapo.pt</url>
-  </channel>
-   <channel id="BenficaTV.pt">
-    <display-name lang="pt">PT: AMC FHD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=480&amp;mime=true&amp;no_default=false" />
      <url>http://www.nos.pt</url>
 	 <url>http://www.vodafone.pt</url>
