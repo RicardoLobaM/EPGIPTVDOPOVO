@@ -2293,7 +2293,6 @@
   </channel> 
   <channel id="NOS STUDIOS">
     <display-name lang="pt">PT VIP - NOS STUDIOS</display-name>
-	<icon src="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOSHD.png" />
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="odisseia.pt">
