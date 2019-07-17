@@ -1,0 +1,6 @@
+   <?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" site="nos.pt">
+  <channels> 
+	<channel update="i" site="nos.pt" site_id="547" xmltv_id="NOSSTUDIOSHD">PT VIP - NOS STUDIOS</channel>
+  </channels>
+</site>
