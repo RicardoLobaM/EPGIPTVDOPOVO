@@ -1,7 +1,7 @@
   <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   
-  <channel id="NOSSTUDIOSHD">
+  <channel id="NOSSTUDIOS.pt">
     <display-name lang="pt">PT VIP - NOS STUDIOS</display-name>
 	<icon src="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOSHD.png" />
     <url>http://www.nos.pt</url>
