@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com"> 	
-  <channel id="SLB">
+  <channel id="BenficaTV.pt">
     <display-name lang="pt">PT-VIP: BTV HD</display-name>
+    <display-name lang="pt">PT-VIP: BTV 1 HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=230&amp;mime=true&amp;no_default=false" />
+    <url>mag.sapo.pt</url>
+  </channel>
+   <channel id="BenficaTV.pt">
+    <display-name lang="pt">PT-VIP: BTV 1 HD</display-name>
+       <display-name lang="pt">PT-VIP: BTV HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=230&amp;mime=true&amp;no_default=false" />
     <url>mag.sapo.pt</url>
   </channel>
